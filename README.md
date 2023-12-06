@@ -1,6 +1,7 @@
 ### Eduardo Pereira de Queiroz
-<h2>Hey, welcome to my git repositories</h2>
-
+<h4>Hey, welcome to my git repositories</h4>
+<hr>
+<p>Desenvolvimento de Sistemas - ETEC HAS</p>
 <!--
 **EduardoPQueiroz/EduardoPQueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
