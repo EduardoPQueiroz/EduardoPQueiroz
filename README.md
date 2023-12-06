@@ -9,9 +9,6 @@
 <h2 align="left">I code with</h2>
 
 ###
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
 ###
 
