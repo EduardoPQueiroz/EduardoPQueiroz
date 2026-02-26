@@ -2,5 +2,5 @@
 
 ###
 
-<p align="left">My name is Eduardo Pereira de Queiroz and I'm a student of System Development, from Brazil</p>
+<p align="left">My name is Eduardo Pereira de Queiroz and I'm a student of Computer Science, from Brazil</p>
 
