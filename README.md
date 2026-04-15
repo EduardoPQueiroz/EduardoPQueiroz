@@ -1,4 +1,4 @@
-<h1 align="center">Edu Queiroz</h1>
+<h1 align="center">Eduardo Queiroz</h1>
 
 <p align="center">
   Software Developer focused on building scalable, maintainable and well-structured systems.
